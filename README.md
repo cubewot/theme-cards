@@ -29,6 +29,14 @@ You can use override the following variables to customise this theme:
 @nav-border: #ddd;
 ```
 
+You might try these...
+```less
+@body-background: #4a5561;
+@body-color: #f0f0f0;
+@header-color: #f0f0f0;
+@nav-border: #ddd;
+```
+
 You can add them to your own LESS file, and run thumbsup with `--theme-style custom.less`.
 
 ## Developing
