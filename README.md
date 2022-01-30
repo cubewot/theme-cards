@@ -29,7 +29,7 @@ You can use override the following variables to customise this theme:
 @nav-border: #ddd;
 ```
 
-You might try these...
+You might try these for dark mode...
 ```less
 @body-background: #4a5561;
 @body-color: #f0f0f0;
